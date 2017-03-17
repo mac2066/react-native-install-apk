@@ -1,6 +1,6 @@
 
 /**
- * 
+ * InstallApk.install(filePath);
  */
 
 
